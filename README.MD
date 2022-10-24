@@ -18,6 +18,11 @@
       <h2 id="prospect"># Prospect</h2>
       <p> Future prospect or development of this project are: I the future I plan to add more function to the prompt. For example adding school or students if the role of the employee is a teacher.</p>
       <h2 id="screeenshot"># Screenshot or Video</h2>
+      
+
+https://user-images.githubusercontent.com/85922363/197452655-b0079b9d-fcd2-40b1-b716-6dd3c8386fca.mp4
+
+
       <h2 id="git"># GitHub Pages</h2>
       <a href=https://qnguyen-hub.github.io/Employee-Management/>View the GitHub Pages</a>
       <h2># GitHub Repository</h2>
